@@ -1,7 +1,7 @@
 {
   "name": "react-hw2",
   "version": "0.1.0",
-  "homepage": "https://sanjar003.github.io/Ricki-Wikki",
+  "homepage": "https://sanjar003.github.io/React_Router",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
