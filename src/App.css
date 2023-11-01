@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  color: black;
+  font-size: 23px;
+  text-decoration: none;
+}
+
+.HeaderClass {
+  background: rebeccapurple;
+  width: 200px;
+  display: flex;
+  gap: 100px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+h1 p {
+  font-size: 23px;
+}
+.container {
+  text-align: center;
+}
+main {
+  min-height: calc(100vh - 85px - 22px);
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+.active-link {
+  color: var(--color-active);
+  cursor: default;
+  /* transition: 0.5s; */
+  color: red;
+}
+.CONTAINER_CHILDREN {
+  display: flex;
+}
